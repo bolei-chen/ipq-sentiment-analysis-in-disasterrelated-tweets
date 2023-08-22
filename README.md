@@ -1,4 +1,4 @@
 # sentiment-analysis-in-disasterrelated-tweets
 
-project built in 2020
-have fun!!
+sentiment analysis problem solved by performing binary classification with lstm.
+
